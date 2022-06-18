@@ -33,3 +33,13 @@ ul {
 li {
   display: inline;
 }
+footer {
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  background-color: blueviolet;
+  color: aliceblue;
+}
+figcaption {
+  text-align: center;
+}
