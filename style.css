@@ -1,0 +1,35 @@
+body {
+  background-color: thistle;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.centered{
+  margin: auto;
+  width: 50%;
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+  margin-top: 87px;
+}
+
+.container{
+  border: 1px solid green;
+}
+header {
+  background-color: hotpink;
+  color:aqua;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  
+}
+header a {
+  color: aqua;
+  
+}
+ul {
+  list-style-type: none;
+}
+li {
+  display: inline;
+}
